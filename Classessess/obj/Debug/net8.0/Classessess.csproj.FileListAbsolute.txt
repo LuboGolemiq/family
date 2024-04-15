@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\obj\Debug\net8.0\Classessess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\obj\Debug\net8.0\Classessess.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\obj\Debug\net8.0\Classessess.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\obj\Debug\net8.0\Classessess.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\bin\Debug\net8.0\Classessess.exe
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\bin\Debug\net8.0\Classessess.deps.json
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\bin\Debug\net8.0\Classessess.runtimeconfig.json
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\bin\Debug\net8.0\Classessess.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\bin\Debug\net8.0\Classessess.pdb
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\obj\Debug\net8.0\Classessess.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\obj\Debug\net8.0\refint\Classessess.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\obj\Debug\net8.0\Classessess.pdb
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\obj\Debug\net8.0\Classessess.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Classess\Classessess\obj\Debug\net8.0\ref\Classessess.dll
